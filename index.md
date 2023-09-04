@@ -1,4 +1,8 @@
-# My Markdown Page
+---
+title: My Test Automation Portfolio
+---
+
+# {{ page.title }}
 
 _Look at my cool new page_. *I can write in bold as well*
 
