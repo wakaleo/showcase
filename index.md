@@ -1,10 +1,12 @@
 ---
-title: My Test Automation Portfolio
+title: My test automation portfolio
 ---
 
-# {{ page.title }}
+# {{ page.title | upcase }}
 
-_Look at my cool new page_. *I can write in bold as well*
+_Look at my cool new page_. **I can write in bold as well**
+
+{{ "A really, really, really long title" | truncatewords: 4}}
 
 Here is a simple list
 - Feed the cats
