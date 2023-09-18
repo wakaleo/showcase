@@ -1,33 +1,22 @@
 ---
-title: My test automation portfolio
+title: Test automation portfolio
 ---
 
-# {{ page.title | upcase }}
+# About Me
 
-_Look at my cool new page_. **I can write in bold as well**
+Hi, I'm John, I'm a passionate SDET with a deep interest in Java and JavaScript technologies... I love turning ideas into reality and continually improving my skills.
 
-{{ "A really, really, really long title" | truncatewords: 4}}
+# Skills
 
-Here is a simple list
-- Feed the cats
-- Walk the dog
-- Buy the milk
+- **Programming Languages:** Java, JavaScript, Python, Kotlin
+- **Agile Development:** Experience with BDD, TDD, XP, Scrum, SAFe
+- **DevOps**: Git, Docker, Jenkins
 
-Here is a list of things to do:
-1. Feed the cats
-1. Walk the dog
+# Sample Projects
 
-This is Java:
-```java
-String name = "Fido";
-```
+These projects illustrate my learning journey in the Test Automation world. Each one is designed as a stand-alone tutorial so that others can learn from my experience.
 
-This is JavaScript:
-```javascript
-name = 'Fido';
-```
+## [String Calculator](https://github.com/wakaleo/portfolio-string-calculator)
 
-This is a link: My Favorite Search Engine is [Duck Duck Go](https://www.duckduckgo.com)
-
-This is an image: ![A random flower](flower.png)
+The String Calculator is a simple Java coding exercise that introduced me to the concepts and practice of TDD and the red-green-refactor cycles. The goal of the kata is to create a function that turns simple mathematical expressions into numerical results. Some of the techniques I learned doing this exercise included String manipulation, Lambda expressions and streams, and String formatting in Java.
 
